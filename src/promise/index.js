@@ -26,3 +26,5 @@ axios.get(API_URL).then(data1 => {
 }).catch(error => {
   console.error(error);
 });
+
+// To run this code write: npm run promise

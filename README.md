@@ -1,2 +1,4 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+#Promises practice:
+
+Here we uses promises to make API requests and print in console 3 Rick & Morty API data.
+To tun the code: run npm promise
