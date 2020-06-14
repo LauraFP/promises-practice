@@ -1,0 +1,25 @@
+{
+  "name": "practica-promises-api",
+  "version": "1.0.0",
+  "description": "Practice to use promises instead of callbacks",
+  "main": "src/promise/index.js",
+  "scripts": {
+    "promise": "node src/promise/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauraFP/promises-practice.git"
+  },
+  "keywords": [
+    "promises"
+  ],
+  "author": "Laura Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauraFP/promises-practice/issues"
+  },
+  "homepage": "https://github.com/LauraFP/promises-practice#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
